@@ -4,7 +4,7 @@
   "description": "",
   "homepage": "https://PanRoman1.github.io/parcel-56-js",
   "scripts": {
-    "start": "parcel src/*.html",
+    "start": "parcel src/*.html --port 7654",
     "build": "parcel build src/*.html --public-url /parcel-56-js/"
   },
   "repository": {
